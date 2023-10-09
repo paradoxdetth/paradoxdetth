@@ -25,8 +25,10 @@
 <h1></h1>
 
 **<p align = center>-> Who am i? <-</p>**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&pause=200&color=F7F7F7&width=830&height=80&lines=I+am+a+Paradox+Detth%2C+frontend+and+backend+developer+with+expertise+in+Python+%26+ReactJS." alt="">
+</p>
 
-<font size="+2"><p align = center>**I am a Paradox Detth, frontend and backend developer with expertise in Python & ReactJS.**</p></font>
 
 <h1></h1>
 
